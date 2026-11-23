@@ -54,7 +54,7 @@ Actual Linux administration activities are performed within the configured Linux
 
 The complete practical implementation, commands, screenshots, configurations, test results and findings are documented in:
 
-**[View Complete Project Documentation](doc.md)**
+**[View Complete Project Documentation](Documentation)**
 
 The documentation distinguishes simulated Azure operations from actual Linux administration activities.
 
