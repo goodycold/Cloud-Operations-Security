@@ -26,6 +26,5 @@ ssh username@serverip
 
 
 
-### Lab 01 – Resource Governance, Roles and Policy
 
 
